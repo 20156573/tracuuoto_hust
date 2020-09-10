@@ -6,3 +6,5 @@ Trang web là một phần đồ án tốt nghiệp của sinh viên ngành kỹ
 Công nghệ sử dụng:
 -Front-end: Html, css, javascript, bootstrap
 -Back-end: Php, My sql
+
+Đối tượng sử dụng: sinh viên (người tra cứu), admin (người cung cấp thông tin chuyên ngành)
