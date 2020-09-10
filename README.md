@@ -4,5 +4,5 @@ Một trang web giành cho các sinh viên ô tô đại học Bách Khoa để 
 Trang web là một phần đồ án tốt nghiệp của sinh viên ngành kỹ thuật ô tô đại học Bách khoa.
 
 Công nghệ sử dụng:
-  -Front-end: Html, css, javascript, bootstrap
-  -Back-end: Php, My sql
+-Front-end: Html, css, javascript, bootstrap
+-Back-end: Php, My sql
